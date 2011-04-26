@@ -151,4 +151,4 @@ Unauthorized
 	        'cache-control': 'must-revalidate' } } }
 	
 
-See more examples here.
+See more examples [here](https://github.com/landeiro/PJsonCouch/wiki/PJsonCouch).
