@@ -152,3 +152,9 @@ Unauthorized
 	
 
 See more examples [here](https://github.com/landeiro/PJsonCouch/wiki/PJsonCouch).
+
+## TODO
+
+There are yet some CouchDB HTTP API methods to cover, that i'll hope to update as soon as possible.
+
+ 
