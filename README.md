@@ -6,7 +6,6 @@ PJsonCouch it means Pure-Json-on-Couch but it should be read PJs-on-Couch :)
 
 ## Why.
 The main idea is to use as most as possible [JSON](http://www.json.org/) for data transport.
-JSON is a more clean manner to structure data and understand the arguments and requests sent to CouchDB.
 
 For example the CouchDB URL invocation:
 	
