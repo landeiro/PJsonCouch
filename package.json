@@ -1,6 +1,6 @@
 {
 	"name": "PJsonCouch",
-	"description": "Pure-Json-on-Couch node module",
+	"description": "Pure-Json-on-Couch is a node.js client lib for CouchDB.",
 	"tags": ["database", "couchdb"],
 	"author": "Pedro Landeiro <landeiro@gmail.com>",
 	"version": "0.1.0",
@@ -10,7 +10,7 @@
 		"url": "http://github.com/landeiro/PJsonCouch.git"
 	},
 	"bugs": {
-		"web": "http://github.com/creationix/node-leveldb/issues"
+		"web": "http://github.com/landeiro/PJsonCouch/issues"
 	},
 	"contributors": [
 	]
