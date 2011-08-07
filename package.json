@@ -1,0 +1,17 @@
+{
+	"name": "PJsonCouch",
+	"description": "Pure-Json-on-Couch node module",
+	"tags": ["database", "couchdb"],
+	"author": "Pedro Landeiro <landeiro@gmail.com>",
+	"version": "0.1.0",
+	"main": "index",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/landeiro/PJsonCouch.git"
+	},
+	"bugs": {
+		"web": "http://github.com/creationix/node-leveldb/issues"
+	},
+	"contributors": [
+	]
+}
