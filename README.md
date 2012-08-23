@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/landeiro/PJsonCouch.png)](http://travis-ci.org/landeiro/PJsonCouch)
 # PJsonCouch
 
 (PJs-on-Couch) is a [node.js](http://nodejs.org/) client lib for [CouchDB](http://couchdb.apache.org/).
